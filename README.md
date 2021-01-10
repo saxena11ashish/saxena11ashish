@@ -1,6 +1,7 @@
 ## Hello there, I'm Ashish. 🤡
 
 - I love C++ 
+- Java-Angular Full-Stack Developer 
 - Recently started competitive programming
 - Coding profiles:  CodeChef: [theseriousguy](https://www.codechef.com/users/theseriousguy), Codeforces: [saxena11ashish](https://codeforces.com/profile/saxena11ashish)
 - Currently learning React.JS
